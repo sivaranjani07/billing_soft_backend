@@ -1,0 +1,17 @@
+# Node
+node_modules/
+.env
+dist/
+build/
+*.log
+package-lock.json
+
+# TypeScript
+*.tsbuildinfo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+coverage/
